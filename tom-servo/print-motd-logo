@@ -1,0 +1,15 @@
+#!/bin/bash
+# save in /usr/local/bin (or overwrite existing) and make symlink in /etc/update.motd.d/98-print-motd-local
+echo
+echo "   _____"
+echo "  |_____|"
+echo " /      #\\"      
+echo "(         )"        
+echo " \\_______/"     
+echo "  =======       _"
+echo "  |  _  |      | |_ ___  _ __ ___      ___  ___ _ ____   _____"
+echo "  | /_\\ |      | __/ _ \\| '_ \` _ \\ ___/ __|/ _ \\ '__\\ \\ / / _ \\"
+echo "  | |_| |      | || (_) | | | | | |___\\__ \\  __/ |   \\ V / (_) |"
+echo "  )     (       \\__\\___/|_| |_| |_|   |___/\\___|_|    \\_/ \\___/"
+echo " ========="
+echo
